@@ -1,5 +1,11 @@
 # Yoo, I'm Wagner ✌
 
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vxgnxx&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxgnxx&layout=compact&langs_count=7&theme=highcontrast"/>
+</div> <br>
+	
 ```javascript
 
 const WhoAmI = {
@@ -7,9 +13,10 @@ const WhoAmI = {
     user: "Felipe Wagner",
     hobbies: [
         "Studying",
+	"Playing Games",
         "Watching Anime, Series and Films",
         "Read books and comics",
-        "Traveling",]
+	"Playing tabletop RPG'S"]
 }
 	
 function getCurrentCity() {
@@ -20,17 +27,11 @@ function Ambitions() {
     backpackingThroughLatam()
     visitTheSevenWondersOfTheWorld()
     recognizedExpert()
-  // Add like 20 other things here and we're done, i guess ¯\_(ツ)_/¯
+  // Add like 10 other things here and we're cool, i guess ¯\_(ツ)_/¯
 } 
  ```
-
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vxgnxx&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxgnxx&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
   
-## Currently learning
+## Currently learning 🌱
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="html5" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -39,20 +40,11 @@ function Ambitions() {
 </div>
 
 ![Snake animation](https://github.com/vxgnxx/vxgnxx/blob/output/github-contribution-grid-snake.svg)
-  
 
-<!--
-**vxgnxx/vxgnxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact Me ✉
 
-Here are some ideas to get you started:
+<a href="https://t.me/Vxgnxx" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="mailto:fws.buss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/wagner33" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
