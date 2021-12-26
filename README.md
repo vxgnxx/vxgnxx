@@ -1,19 +1,28 @@
 # Yoo, I'm Wagner ✌
 
-<!--
-**vxgnxx/vxgnxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const WhoAmI = {
+    pronouns: "he" | "him
+    user: "Felipe Wagner",
+    hobbies: [
+        "Studying",
+        "Watching Anime, Series and Films",
+        "Read books and comics",
+        "Traveling",]
+}
+	
+function getCurrentCity() {
+    return Pelotas_Brazil
+}
+	
+function Ambitions() {
+    backpackingThroughLatam()
+    visitTheSevenWondersOfTheWorld()
+    recognizedExpert()
+  // Add like 20 other things here and we're done, i guess ¯\_(ツ)_/¯
+} 
+ ```
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -30,3 +39,20 @@ Here are some ideas to get you started:
 </div>
 
 ![Snake animation](https://github.com/vxgnxx/vxgnxx/blob/output/github-contribution-grid-snake.svg)
+  
+
+<!--
+**vxgnxx/vxgnxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
