@@ -1,11 +1,14 @@
 <h1 align="center"> Yoo, I'm Wagner ✌ </h1>
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/vxgnxx">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vxgnxx&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxgnxx&layout=compact&langs_count=7&theme=highcontrast"/>
 </div> 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<br>
+<div>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+</div
 <br>
 	
 ```javascript
