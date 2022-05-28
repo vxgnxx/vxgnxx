@@ -7,7 +7,8 @@
 </div>
 	![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vxgnxx)
 <br>
-	
+
+<div>
 ```javascript
 
 const WhoAmI = {
@@ -33,6 +34,8 @@ function Ambitions() {
   // Add like 10 other things here and we're cool, i guess ¯\_(ツ)_/¯
 } 
  ```
+</div>
+	
 <h2 align="center">🌱 Currently learning 🌱</h2>
 
 <div style="display: inline_block" align="center"><br>
