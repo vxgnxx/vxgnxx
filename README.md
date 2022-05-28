@@ -6,10 +6,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxgnxx&layout=compact&langs_count=7&theme=highcontrast"/>
 </div> 
 <br>
-<div>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-</div
-<br>
 	
 ```javascript
 
@@ -45,6 +41,7 @@ function Ambitions() {
 </div>
 
 ![Snake animation](https://github.com/vxgnxx/vxgnxx/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vxgnxx)](https://git.io/streak-stats)
 
 <h2 align="center">Contact Me!</h2>
 
