@@ -5,10 +5,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vxgnxx&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxgnxx&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-	![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vxgnxx)
-<br>
+	[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vxgnxx)](https://git.io/streak-stats)
 
-<div>
 ```javascript
 
 const WhoAmI = {
@@ -34,7 +32,6 @@ function Ambitions() {
   // Add like 10 other things here and we're cool, i guess ¯\_(ツ)_/¯
 } 
  ```
-</div>
 	
 <h2 align="center">🌱 Currently learning 🌱</h2>
 
