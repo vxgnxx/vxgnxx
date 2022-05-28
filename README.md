@@ -2,10 +2,12 @@
 
 <div align="center">
   <a href="https://github.com/vxgnxx">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vxgnxx&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxgnxx&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vxgnxx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxgnxx&layout=compact&langs_count=7&theme=midnight-purple"/>
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vxgnxx&theme=midnight-purple)
 </div>
-	![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vxgnxx)](https://git.io/streak-stats)
+<br>
 
 ```javascript
 
