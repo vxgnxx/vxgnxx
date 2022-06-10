@@ -26,7 +26,7 @@ function getCurrentCity() {
 }
 	
 function Ambitions() {
-    TravelingThroughLatam()
+    travelingThroughLatam()
     livingByMyself()
     recognizedExpert()
     firstJob()
