@@ -12,7 +12,7 @@
 
 ```javascript
 
-const WhoAmI = {
+const whoAmI = {
     pronouns: "he" | "him
     user: "Felipe Wagner",
     hobbies: [
