@@ -15,7 +15,6 @@ const WhoAmI = {
     pronouns: "he" | "him
     user: "Felipe Wagner",
     hobbies: [
-        "Studying",
 	"Playing Games",
         "Watching Anime, Series and Films",
         "Read books and comics",
@@ -27,8 +26,8 @@ function getCurrentCity() {
 }
 	
 function Ambitions() {
-    backpackingThroughLatam()
-    visitTheSevenWondersOfTheWorld()
+    TravelingThroughLatam()
+    livingByMyself()
     recognizedExpert()
     firstJob()
   // Add like 10 other things here and we're cool, i guess ¯\_(ツ)_/¯
