@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=vxgnxx&label=Profile%20views&color=7f3ace&style=for-the-badge" alt="vxgnxx" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=vxgnxx&label=Visitors&color=7f3ace&style=for-the-badge" alt="vxgnxx" /> </p>
 <h1 align="center"> Yoo, I'm Wagner ✌ </h1>
 
 <div align="center">
