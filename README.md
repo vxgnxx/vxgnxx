@@ -25,7 +25,7 @@ function getCurrentCity() {
     return Pelotas_Brazil
 }
 	
-function Ambitions() {
+function ambitions() {
     travelingThroughLatam()
     livingByMyself()
     recognizedExpert()
