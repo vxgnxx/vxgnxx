@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=vxgnxx&label=Profile%20views&color=grey&style=for-the-badge" alt="vxgnxx" /> </p>
 <h1 align="center"> Yoo, I'm Wagner ✌ </h1>
 
 <div align="center">
@@ -55,5 +56,4 @@ function ambitions() {
 	<a href="mailto:fws.buss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
 	<a href="https://www.linkedin.com/in/vxgnxx/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
 
