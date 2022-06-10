@@ -38,9 +38,9 @@ function ambitions() {
 <h2 align="center">🌱 Currently learning 🌱</h2>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="html5" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="center" alt="javascript" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="css3" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <abbr title="HTML5"><img align="center" alt="html5" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></abbr>
+  <abbr title="JavaScript"><img align="center" alt="javascript" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></abbr>
+  <abbr title="CSS3"><img align="center" alt="css3" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></abbr>
 </div>
 
 <div align="center">
