@@ -52,8 +52,8 @@ function ambitions() {
 <h2 align="center">Contact Me!</h2>
 
 <div align="center">
-	<a href="https://t.me/Vxgnxx" target="_blank"><img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-	<a href="mailto:fws.buss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
-	<a href="https://www.linkedin.com/in/vxgnxx/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	<a href="https://t.me/Vxgnxx" target="_blank"><img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&logoColor=white"></a>
+	<a href="mailto:fws.buss@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<a href="https://www.linkedin.com/in/vxgnxx/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
