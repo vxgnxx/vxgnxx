@@ -17,7 +17,7 @@ const whoAmI = {
     user: "Felipe Wagner",
     hobbies: [
 	"Playing Games",
-        "Watching Anime, Series and Films",
+        "Watching Anime, Series and Movies",
         "Read books and comics",
 	"Playing tabletop RPG'S"]
 }
