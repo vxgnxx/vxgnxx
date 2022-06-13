@@ -1,8 +1,8 @@
-<div align="right">	
-  <p><img src="https://komarev.com/ghpvc/?username=vxgnxx&label=Visitors&color=7f3ace&style=for-the-badge" alt="vxgnxx" /></p>
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22xn5kvdb3t4uqq23v5s3anci&cover_image=true&theme=natemoo-re&bar_color=7f3ace&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div>	
+  <img align="right" src="https://komarev.com/ghpvc/?username=vxgnxx&label=Visitors&color=7f3ace&style=for-the-badge" alt="vxgnxx"/>
+  <img align="left" width="25%" src="https://spotify-github-profile.vercel.app/api/view?uid=22xn5kvdb3t4uqq23v5s3anci&cover_image=true&theme=natemoo-re&bar_color=7f3ace&bar_color_cover=false"/>
 </div>
+
 <h1 align="center"> Yoo, I'm Wagner ✌ </h1>
 
 <div align="center">
