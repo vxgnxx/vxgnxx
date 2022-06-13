@@ -1,17 +1,17 @@
 <header>	
   <img align="right" src="https://komarev.com/ghpvc/?username=vxgnxx&label=Visitors&color=7f3ace&style=for-the-badge" alt="vxgnxx"/>
-  <img align="left" width="25%" src="https://spotify-github-profile.vercel.app/api/view?uid=22xn5kvdb3t4uqq23v5s3anci&cover_image=true&theme=natemoo-re&bar_color=7f3ace&bar_color_cover=false"/>
+  <img align="left" width="30%" src="https://spotify-github-profile.vercel.app/api/view?uid=22xn5kvdb3t4uqq23v5s3anci&cover_image=true&theme=natemoo-re&bar_color=7f3ace&bar_color_cover=false"/>
 </header>
 
 <br><br><br>
 
-<main align="center">
+<div align="center">
   <h1 align="center"> Yoo, I'm Wagner ✌ </h1>
   <a href="https://github.com/vxgnxx">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vxgnxx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxgnxx&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
   <img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=Vxgnxx&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-</main>
+</div>
 
 ```javascript
 
