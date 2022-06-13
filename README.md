@@ -1,6 +1,6 @@
 <header>
-  <img align="right" width="100em" src="https://komarev.com/ghpvc/?username=vxgnxx&label=Visitors&color=7f3ace&style=for-the-badge" alt="vxgnxx"/>
-  <img align="left" width="200em" src="https://spotify-github-profile.vercel.app/api/view?uid=22xn5kvdb3t4uqq23v5s3anci&cover_image=true&theme=natemoo-re&bar_color=7f3ace&bar_color_cover=false"/>
+  <img align="right" width="125em" src="https://komarev.com/ghpvc/?username=vxgnxx&label=Visitors&color=7f3ace&style=for-the-badge" alt="vxgnxx"/>
+  <img align="left" width="30%" src="https://spotify-github-profile.vercel.app/api/view?uid=22xn5kvdb3t4uqq23v5s3anci&cover_image=true&theme=natemoo-re&bar_color=7f3ace&bar_color_cover=false"/>
 </header>
 
 <br><br><br><br>
