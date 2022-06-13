@@ -6,7 +6,6 @@
 <br><br><br><br>
 
 <main>
-
   <div align="center">
     <h1>Yoo, i'm Wagner &#9996</h1>
     <a href="#">
