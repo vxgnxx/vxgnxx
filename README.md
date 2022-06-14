@@ -15,7 +15,6 @@
 
   ```javascript
   const whoAmI = {
-      pronouns: "he" | "him",
       user: "Felipe Wagner",
       hobbies: [
     "Playing Games",
