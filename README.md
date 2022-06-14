@@ -17,10 +17,10 @@
   const whoAmI = {
       user: "Felipe Wagner",
       hobbies: [
-    "Playing Games",
+          "Playing Games",
           "Watching Anime, Series and Movies",
           "Read books and comics",
-    "Playing tabletop RPG'S"]
+          "Playing tabletop RPG'S"]
   }
     
   function getCurrentCity() {
