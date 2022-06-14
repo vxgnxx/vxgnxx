@@ -5,9 +5,9 @@
 
 <br><br><br><br>
 
-<main>
+<main font-family="Comic Sans MS">
   <div align="center">
-    <h1>Yoo, i'm Wagner &#9996</h1>
+    <h1>ʏᴏᴏ, ɪ’ᴍ ᴡᴀɢɴᴇʀ ৻(  •̀ ᗜ •́  ৻)</h1>
     <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=vxgnxx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/></a>
     <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxgnxx&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/></a>
     <a href="#"><img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=Vxgnxx&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
@@ -36,7 +36,7 @@
   } 
   ```
   <div align="center">
-    <h2>&#127793 Currently Learning &#127793</h2>
+    <h2>( ◡̀_◡́)ᕤ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ</h2>
     <br>
     <a href="#"><img alt="html5" height="60" width="80" src="https://camo.githubusercontent.com/d458b55282fc167f5a189b35e54f966acdd5100d9331d90bea6416f2805e7f95/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667"/></a>
     <a href="#"><img alt="javascript" height="60" width="80" src="https://camo.githubusercontent.com/528e232c728b497080cbf31d2a7e797caa81e402ff81643f79b2c2c395a29f17/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667"/></a>
@@ -46,7 +46,7 @@
   </div>
 
   <div align="center">
-    <h2>Contact Me!</h2>
+    <h2>ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ!</h2>
     <a href="https://linktr.ee/vxgnxx" target="_blank"><img src="https://img.shields.io/badge/linktree-000000?style=for-the-badge&logo=linktree&logoColor=white"></a>
   </div>
 </main>
