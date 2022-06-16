@@ -30,7 +30,7 @@
   function ambitions() {
       travelingThroughLatam()
       livingByMyself()
-      recognizedExpert()
+      graduateFromCollege()
       firstJob()
     // Add like 10 other things here and we're cool, i guess ¯\_(ツ)_/¯
   } 
