@@ -5,7 +5,7 @@
 
 <br><br><br><br>
 
-<main font-family="Comic Sans MS">
+<main>
   <div align="center">
     <h1>ʏᴏᴏ, ɪ’ᴍ ᴡᴀɢɴᴇʀ ৻(  •̀ ᗜ •́  ৻)</h1>
     <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=vxgnxx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/></a>
