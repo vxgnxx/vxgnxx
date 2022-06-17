@@ -43,6 +43,8 @@
     <a href="#"><img alt="css3" height="40" width="53.3" src="https://camo.githubusercontent.com/ad8fbf7f75f04b296b72beb893acf572b364e69ec35ea41a68a29507f5b1cd1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667"/></a>
     <br>
     <img src="https://github.com/vxgnxx/vxgnxx/blob/output/github-contribution-grid-snake.svg"/>
+    <br>
+    <img src="https://activity-graph.herokuapp.com/graph?username=vxgnxx&bg_color=0a0c10&color=f0f3f6&line=7f3ace&point=24292e&area=true&hide_border=true"/>
   </div>
 
   <div align="center">
