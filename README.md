@@ -42,9 +42,9 @@
     <a href="#"><img alt="javascript" height="40" width="53.3" src="https://camo.githubusercontent.com/528e232c728b497080cbf31d2a7e797caa81e402ff81643f79b2c2c395a29f17/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d706c61696e2e737667"/></a>
     <a href="#"><img alt="css3" height="40" width="53.3" src="https://camo.githubusercontent.com/ad8fbf7f75f04b296b72beb893acf572b364e69ec35ea41a68a29507f5b1cd1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667"/></a>
     <br>
-    <img src="https://github.com/vxgnxx/vxgnxx/blob/output/github-contribution-grid-snake.svg"/>
-    <br>
     <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=vxgnxx&bg_color=0a0c1000&color=f0f3f6&line=7f3ace&point=7f3ace&area=false&hide_border=true"/></a>
+    <br>
+    <img src="https://github.com/vxgnxx/vxgnxx/blob/output/github-contribution-grid-snake.svg"/>
   </div>
 
   <div align="center">
