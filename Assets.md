@@ -1,5 +1,5 @@
 # Assets
-*This are the assets that I used in my profile readme*
+*This are some assets that I used in my profile readme*
 ## 1. [Profile views badge](https://github.com/antonkomarev/github-profile-views-counter)
 ## 2. [Spotify](https://github.com/kittinan/spotify-github-profile)
 ## 3. [Typing gif](https://github.com/DenverCoder1/readme-typing-svg)
