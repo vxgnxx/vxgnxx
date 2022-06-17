@@ -43,12 +43,12 @@
     <a href="#"><img alt="css3" height="40" width="53.3" src="https://camo.githubusercontent.com/ad8fbf7f75f04b296b72beb893acf572b364e69ec35ea41a68a29507f5b1cd1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667"/></a>
     <br>
     <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=vxgnxx&bg_color=0a0c1000&color=f0f3f6&line=7f3ace&point=7f3ace&area=false&hide_border=true"/></a>
-    <br>
-    <img src="https://github.com/vxgnxx/vxgnxx/blob/output/github-contribution-grid-snake.svg"/>
   </div>
 
   <div align="center">
     <h2>ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ!</h2>
     <a href="https://linktr.ee/vxgnxx" target="_blank"><img src="https://img.shields.io/badge/linktree-000000?style=for-the-badge&logo=linktree&logoColor=white"></a>
+    <br>
+    <img src="https://github.com/vxgnxx/vxgnxx/blob/output/github-contribution-grid-snake.svg"/>
   </div>
 </main>
