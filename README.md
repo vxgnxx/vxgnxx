@@ -44,7 +44,7 @@
     <br>
     <img src="https://github.com/vxgnxx/vxgnxx/blob/output/github-contribution-grid-snake.svg"/>
     <br>
-    <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=vxgnxx&bg_color=0a0c10&color=f0f3f6&line=7f3ace&point=7f3ace&area=false&hide_border=true"/></a>
+    <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=vxgnxx&bg_color=0a0c1000&color=f0f3f6&line=7f3ace&point=7f3ace&area=false&hide_border=true"/></a>
   </div>
 
   <div align="center">
