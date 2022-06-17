@@ -7,7 +7,7 @@
 
 <main>
   <div align="center">
-    <h1>ʏᴏᴏ, ɪ’ᴍ ᴡᴀɢɴᴇʀ ৻(  •̀ ᗜ •́  ৻)</h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?color=7F3ACE&center=true&vCenter=true&lines=%CA%8F%E1%B4%8F%E1%B4%8F%2C+%C9%AA%E2%80%99%E1%B4%8D+%E1%B4%A1%E1%B4%80%C9%A2%C9%B4%E1%B4%87%CA%80+%E0%A7%BB(+%E2%80%A2%CC%80+%E1%97%9C+%E2%80%A2%CC%81+%E0%A7%BB)"/></h1>
     <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=vxgnxx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/></a>
     <a href="#"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxgnxx&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/></a>
     <a href="#"><img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=Vxgnxx&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
