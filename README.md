@@ -22,6 +22,8 @@
           "Read books and comics",
           "Playing tabletop RPG'S"]
   }
+  
+  let languagesAndTools = ['HTML', 'CSS']
     
   function getCurrentCity() {
       return Pelotas_Brazil
