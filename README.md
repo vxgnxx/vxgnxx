@@ -30,7 +30,6 @@
   }
     
   function ambitions() {
-      travelingThroughLatam()
       livingByMyself()
       graduateFromCollege()
       firstJob()
