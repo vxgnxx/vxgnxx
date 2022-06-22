@@ -13,8 +13,8 @@ jobs:
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
+        snake_color: 7f3ace
         with:
-          snake_color: 7f3ace
           github_user_name: vxgnxx
           svg_out_path: dist/github-contribution-grid-snake.svg
 
