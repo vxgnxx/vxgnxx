@@ -40,7 +40,7 @@
   <div align="center">
     <h2>( ◡̀_◡́)ᕤ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ</h2>
     <br>
-    <a href="#"><img alt="react" height="40" width="53.3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+    <a href="#"><img alt="git" height="40" width="53.3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
     <a href="#"><img alt="javascript" height="40" width="53.3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
     <a href="#"><img alt="node.js" height="40" width="53.3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
     <br>
