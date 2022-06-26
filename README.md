@@ -42,7 +42,6 @@
     <br>
     <a href="#"><img alt="git" height="40" width="53.3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
     <a href="#"><img alt="javascript" height="40" width="53.3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
-    <a href="#"><img alt="node.js" height="40" width="53.3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
     <br>
     <img src="https://github.com/vxgnxx/vxgnxx/blob/output/github-contribution-grid-snake.svg?color_snake=#7f3ace&color_dots=#000000,#01311f,#034525,#0f6d31,#00c647"/>
     <br>
