@@ -3,7 +3,7 @@
   <a href="#"><img align="left" width="30%" src="https://spotify-github-profile.vercel.app/api/view?uid=22xn5kvdb3t4uqq23v5s3anci&cover_image=true&theme=natemoo-re&bar_color=7f3ace&bar_color_cover=false"/></a>
 </header>
 
-<br>
+<br><br><br><br>
 
 <main>
   <div align="center">
