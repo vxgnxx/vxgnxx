@@ -23,7 +23,7 @@
           "Playing tabletop RPG'S"]
   }
   
-  let skills = ['HTML', 'CSS'] // \(ᵔᵕᵔ)
+  let skills = ['HTML', 'CSS'] // \(ᵔᵕᵔ)/
     
   function getCurrentCity() {
       return Pelotas_Brazil
