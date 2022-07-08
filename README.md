@@ -43,7 +43,7 @@
     <a href="#"><img alt="git" height="40" width="53.3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
     <a href="#"><img alt="javascript" height="40" width="53.3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
     <br>
-    <img width="75%" src=github-contribution-grid-snake.gif?color_snake=purple"/>
+    <img width="75%" src="https://github.com/vxgnxx/vxgnxx/blob/2b0750e440f2f2cf350513607a95b565bd1346d4/github-contribution-grid-snake.svg"/>
     <br>
     <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=vxgnxx&bg_color=0a0c1000&color=f0f3f6&line=7f3ace&point=7f3ace&area=false&hide_border=true"/></a>
   </div>
