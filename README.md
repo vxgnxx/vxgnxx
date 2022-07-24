@@ -42,6 +42,8 @@
     <br>
     <a href="#"><img alt="git" height="40" width="53.3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
     <a href="#"><img alt="javascript" height="40" width="53.3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+    <img alt="tailwind" height="40" width="53.3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+
     <br>
     <img width="75%" src="https://raw.githubusercontent.com/vxgnxx/vxgnxx/159fc7414252c3ac8acc3dffb077f480da723fe0/github-contribution-grid-snake.svg"/>
     <br>
