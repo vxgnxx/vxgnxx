@@ -44,7 +44,7 @@
     <a href="#"><img alt="javascript" height="40" width="53.3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
     <img alt="tailwind" height="40" width="53.3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
     <br>
-    <img width="75%" src="https://raw.githubusercontent.com/vxgnxx/vxgnxx/159fc7414252c3ac8acc3dffb077f480da723fe0/github-contribution-grid-snake.svg"/>
+    <img width="75%" src="https://github.com/vxgnxx/vxgnxx/blob/output/github-contribution-grid-snake.svg"/>
     <br>
     <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=vxgnxx&bg_color=0a0c1000&color=f0f3f6&line=7f3ace&point=7f3ace&area=false&hide_border=true"/></a>
   </div>
