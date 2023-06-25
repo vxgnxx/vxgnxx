@@ -44,8 +44,6 @@
     <img alt="tailwind" height="40" width="53.3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
     <br>
     <img width="75%" src="https://github.com/vxgnxx/vxgnxx/blob/output/github-contribution-grid-snake.svg"/>
-    <br>
-    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vxgnxx)](https://github.com/ashutosh00710/github-readme-activity-graph)
   </div>
 
   <div align="center">
