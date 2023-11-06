@@ -16,7 +16,7 @@
   </div>
     
   <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vxgnxx&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+    <img height="150em" src="(https://github-readme-stats.vercel.app/api?username=vxgnxx)(https://github.com/anuraghazra/github-readme-stats)b"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxgnxx&layout=compact&langs_count=7&theme=graywhite&hide_border=true&count_private=true"/>
     <img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=Vxgnxx&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5De&count_private=true"/>
     <br>
