@@ -22,7 +22,7 @@
   </div>
   
   <div align="center">
-    <h2>ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ!</h2>
+    <h2 align="center>ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ!</h2>
     <a href="https://linktr.ee/vxgnxx" target="_blank"><img src="https://img.shields.io/badge/linktree-000000?style=for-the-badge&logo=linktree&logoColor=white"></a>
   </div>
 </main>
