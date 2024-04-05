@@ -2,7 +2,7 @@
   <a href="#"><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=vxgnxx&label=Visitors&color=gray&style=for-the-badge" alt="vxgnxx"/></a>
 </header>
 
-<br><br><br><br>
+<br><br>
 <main>
   <div>
     <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=25&lines=Hello+I'm+Felipe!" alt="Typing SVG" /></h1>
