@@ -9,8 +9,6 @@
     <br>
     <ul>
       <li>I'm a Computer Science student at UFPEL ⇒ Brazil</li>
-      <li>Currently studying about PWAs and my college topics</li>
-      <li>Volunteer student in the research project: Cybersecurity as a scenario of contemporary geopolitical disputes</li>
       <li>I want to collaborate with open source projects in the future</li>
     </ul>
     <br>
