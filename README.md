@@ -17,7 +17,6 @@
   <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vxgnxx&show_icons=true&theme=graywhite"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxgnxx&layout=compact&langs_count=7&theme=graywhite&hide_border=true&count_private=true"/>
-    <img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=Vxgnxx&theme=graywhite&hide_border=true&date_format=j%20M%5B%20Y%5De&count_private=true"/>
     <br>
     <br>
     <a href="https://linktr.ee/vxgnxx" target="_blank"><img src="https://img.shields.io/badge/linktree-000000?style=for-the-badge&logo=linktree&logoColor=white"></a>
