@@ -18,8 +18,6 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vxgnxx&show_icons=true&theme=graywhite"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxgnxx&layout=compact&langs_count=7&theme=graywhite&hide_border=true&count_private=true"/>
     <br>
-    <img src="https://streak-stats.demolab.com/?user=vxgnxx" alt="GitHub Streak" />
-    <br>
     <br>
     <a href="https://linktr.ee/vxgnxx" target="_blank"><img src="https://img.shields.io/badge/linktree-000000?style=for-the-badge&logo=linktree&logoColor=white"></a>
   </div>
