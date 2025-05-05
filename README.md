@@ -9,7 +9,6 @@
     <br>
     <ul>
       <li>I'm a Computer Science student at UFPEL ⇒ Brazil</li>
-      <li>I want to collaborate with open source projects in the future</li>
     </ul>
     <br>
   </div>
