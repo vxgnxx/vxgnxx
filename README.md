@@ -14,7 +14,7 @@
   </div>
     
   <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vxgnxx&show_icons=true&theme=graywhite"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vxgnxx&show_icons=true&theme=graywhite&rank_icon=github"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxgnxx&layout=compact&langs_count=7&theme=graywhite&hide_border=true&count_private=true"/>
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vxgnxx&theme=graywhite"/>
     <br>
